@@ -153,3 +153,4 @@
 //  it will never change/update the value of a global variable
 
 // closures
+// a function+ lexical environment ke reference return hoga 
