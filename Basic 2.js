@@ -54,7 +54,7 @@ const PromptSync = require('prompt-sync');
 // let v=9;
 // let s=8;
 // console.log(v**s)
-//a++ first prints then increments and ++a first increment than print
+// a++ first prints then increments and ++a first increment than print
 // console.log(v==s)
 // console.log(v!=s)
 
@@ -262,8 +262,8 @@ const PromptSync = require('prompt-sync');
 // Array.isArray({}) -- false
 
 //deleting props in object
-var a={
-    name:"harsh",
-    age:24
+var a = {
+    name: "harsh",
+    age: 24
 }
 delete a.age;

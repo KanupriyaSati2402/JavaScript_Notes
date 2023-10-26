@@ -88,7 +88,7 @@
 //     cantalk:true,
 //     willdie:true,
 //     canfly:false
-}
+//}
 // but a student is also a human and have the same properties as above 
 
 // var student={

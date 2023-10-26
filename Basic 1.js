@@ -1,12 +1,12 @@
- //1. ways to print in js
-    //console.log("Hello World");
-    //alert("Hello GUYS");
-    //document.write('Hello baby');
-    
+//1. ways to print in js
+//console.log("Hello World");
+//alert("Hello GUYS");
+//document.write('Hello baby');
+
 //2. js console API 
-    //console.warn("this is a warning");
-    //console.error("this is an error");
-    //console.log("hello world")
+//console.warn("this is a warning");
+//console.error("this is an error");
+//console.log("hello world")
 
 
 // javascript is a dynamically typed language and it can change a variable while it is running 
@@ -84,7 +84,7 @@ and const values cannot be changed
 // console.log(a/b)
 // console.log(a*b)
 
- 
+
 // assignment operators 
 // var c=b;
 // c*=c;
@@ -120,10 +120,10 @@ and const values cannot be changed
 
 //Functions in js
 // dry function = do not repeat urself
-function avg(a,b){
-    return  (a+b)/2;
+function avg(a, b) {
+    return (a + b) / 2;
 }
-c=avg(4,6)
+c = avg(4, 6)
 console.log(c)
 // if we see something in blue in console that is a number and with black it is a string
 
@@ -253,7 +253,7 @@ createdElement2.innerText = "This is a created bold";
 tn[0].replaceChild(createdElement2, createdElement);
 // removeChild(element); ---> removes an element
 
- 
+
 // Selecting using Query
 // sel = document.querySelector('.container')
 // console.log(sel)
